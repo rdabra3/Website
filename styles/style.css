@@ -1,0 +1,13 @@
+body{
+  font-family: times-new-roman;
+  font-size: 200%;
+  color: black;
+  background-color: rgb(125,195,0);
+  text-align: center;
+}
+h1{
+  font-family: times-new-roman;
+  font-size: 300%;
+  color: orange;
+  text-align: center;
+}
